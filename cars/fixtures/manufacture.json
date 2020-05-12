@@ -1,0 +1,20 @@
+[
+  {
+    "model": "cars.manufacturer",
+    "pk": 1,
+    "fields": {
+      "name": "Maruti Suzuki",
+      "country_code": "in",
+      "created": "1947-08-15"
+    }
+  },
+  {
+    "model": "cars.manufacturer",
+    "pk": 2,
+    "fields": {
+      "name": "Honda",
+      "country_code": "jp",
+      "created": "1948-09-24"
+    }
+  }
+]
